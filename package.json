@@ -1,0 +1,11 @@
+{
+  "name": "webdev2024",
+  "version": "1.0.0",
+  "description": "Web Dev course 2024 personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Edwin Arroyo",
+  "license": "ISC"
+}
